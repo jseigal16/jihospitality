@@ -84,7 +84,7 @@
     <main>
         <section id="home">
             <h2>Home</h2>
-            <p>Welcome to J&I Hospitality, your trusted partner in the hospitality industry. We provide top-notch services to ensure your guests have a memorable experience.</p>
+            <p>we are jihospitality we help struggling airbnb owners or owner who just are sick of the hassle of airbnb bost property ratings and manage day to day task our 7 property's we have managed so far have all seen a great level of improvement in ratings and a up sale in nights per month .</p>
         </section>
         <section id="services">
             <h2>Our Services</h2>
